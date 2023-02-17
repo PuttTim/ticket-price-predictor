@@ -1,0 +1,53 @@
+airlineName_Boutique Air - 0.00%
+airlineName_Southern Airways Express - 0.01%
+airlineName_Key Lime Air - 0.01%
+airlineName_Sun Country Airlines - 0.03%
+cabinCode_premium coach - 0.15%
+airlineName_Cape Air - 0.15%
+airlineName_Frontier Airlines - 0.18%
+startingAirport_DTW - 0.36%
+startingAirport_ATL - 0.36%
+startingAirport_EWR - 0.37%
+startingAirport_PHL - 0.38%
+startingAirport_BOS - 0.44%
+destinationAirport_PHL - 0.44%
+destinationAirport_BOS - 0.46%
+startingAirport_IAD - 0.47%
+destinationAirport_EWR - 0.49%
+destinationAirport_ATL - 0.49%
+destinationAirport_IAD - 0.54%
+destinationAirport_JFK - 0.55%
+destinationAirport_LAX - 0.66%
+destinationAirport_DTW - 0.70%
+startingAirport_JFK - 0.70%
+startingAirport_DFW - 0.72%
+destinationAirport_CLT - 0.77%
+startingAirport_MIA - 0.78%
+destinationAirport_SFO - 0.80%
+destinationAirport_LGA - 0.82%
+airlineName_JetBlue Airways - 0.87%
+startingAirport_OAK - 0.88%
+startingAirport_LGA - 0.89%
+destinationAirport_DFW - 0.94%
+destinationAirport_OAK - 1.15%
+startingAirport_LAX - 1.18%
+cabinCode_business - 1.40%
+startingAirport_DEN - 1.46%
+destinationAirport_MIA - 1.48%
+startingAirport_SFO - 1.48%
+airlineName_Spirit Airlines - 1.50%
+startingAirport_ORD - 1.58%
+destinationAirport_ORD - 1.62%
+startingAirport_CLT - 1.76%
+airlineName_Delta - 1.92%
+airlineName_United - 2.04%
+destinationAirport_DEN - 2.04%
+airlineName_American Airlines - 2.23%
+cabinCode_first - 2.64%
+isNonStop - 2.79%
+isBasicEconomy - 3.04%
+cabinCode_coach - 3.79%
+airlineName_Alaska Airlines - 4.66%
+daysBeforeDeparture - 9.21%
+travelTime - 16.80%
+totalTravelDistance - 18.80%
